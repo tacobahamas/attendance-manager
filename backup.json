@@ -1,0 +1,18 @@
+{
+  "employees": [
+    { "id": "e1", "name": "Crystal Turnquest", "position": "Operations Lead", "department": "Operations", "hourlyRate": 18, "startDate": "2024-01-15", "status": "active" },
+    { "id": "e2", "name": "Anastasia Morris", "position": "Customer Service Rep", "department": "Front Office", "hourlyRate": 14, "startDate": "2024-02-01", "status": "active" },
+    { "id": "e3", "name": "Britney Green", "position": "Administrative Assistant", "department": "Administration", "hourlyRate": 15, "startDate": "2024-03-10", "status": "active" },
+    { "id": "e4", "name": "Gaylyn Cox", "position": "Sales Associate", "department": "Sales", "hourlyRate": 14, "startDate": "2024-01-20", "status": "active" },
+    { "id": "e5", "name": "Demarchka Campbell", "position": "Warehouse Staff", "department": "Operations", "hourlyRate": 13, "startDate": "2024-04-05", "status": "active" },
+    { "id": "e6", "name": "Arsini Fox", "position": "Accountant", "department": "Finance", "hourlyRate": 20, "startDate": "2023-11-01", "status": "active" },
+    { "id": "e7", "name": "Jacqueline Levarity", "position": "HR Coordinator", "department": "Human Resources", "hourlyRate": 17, "startDate": "2024-02-15", "status": "active" },
+    { "id": "e8", "name": "Heynis Stuart", "position": "IT Support", "department": "Technology", "hourlyRate": 19, "startDate": "2023-09-01", "status": "active" },
+    { "id": "e9", "name": "Pawan Kumar", "position": "Maintenance Technician", "department": "Facilities", "hourlyRate": 13, "startDate": "2024-05-01", "status": "active" }
+  ],
+  "attendance": [],
+  "leaves": [],
+  "dayOffs": [],
+  "vouchers": [],
+  "activityLog": []
+}
